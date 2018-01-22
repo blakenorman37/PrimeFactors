@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberPrinter", "PrimeNumberPrinter\PrimeNumberPrinter.csproj", "{68794BFB-D247-4EAD-95D3-476884733FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{DE8ABE3D-7233-4775-AB01-9FE9F45B13F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68794BFB-D247-4EAD-95D3-476884733FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68794BFB-D247-4EAD-95D3-476884733FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68794BFB-D247-4EAD-95D3-476884733FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68794BFB-D247-4EAD-95D3-476884733FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE8ABE3D-7233-4775-AB01-9FE9F45B13F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8ABE3D-7233-4775-AB01-9FE9F45B13F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8ABE3D-7233-4775-AB01-9FE9F45B13F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8ABE3D-7233-4775-AB01-9FE9F45B13F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {511F3827-F926-419C-AAAD-82BE1CE4FC86}
+	EndGlobalSection
+EndGlobal
