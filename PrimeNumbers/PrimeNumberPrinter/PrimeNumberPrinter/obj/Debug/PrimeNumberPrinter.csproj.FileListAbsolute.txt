@@ -1,7 +1,0 @@
-C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\PrimeNumberPrinter\bin\Debug\PrimeNumberPrinter.exe.config
-C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\PrimeNumberPrinter\bin\Debug\PrimeNumberPrinter.exe
-C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\PrimeNumberPrinter\bin\Debug\PrimeNumberPrinter.pdb
-C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\PrimeNumberPrinter\obj\Debug\PrimeNumberPrinter.csprojResolveAssemblyReference.cache
-C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\PrimeNumberPrinter\obj\Debug\PrimeNumberPrinter.csproj.CoreCompileInputs.cache
-C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\PrimeNumberPrinter\obj\Debug\PrimeNumberPrinter.exe
-C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\PrimeNumberPrinter\obj\Debug\PrimeNumberPrinter.pdb
