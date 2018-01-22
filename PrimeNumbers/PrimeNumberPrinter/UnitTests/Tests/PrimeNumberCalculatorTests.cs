@@ -11,12 +11,12 @@ namespace UnitTests.Tests
     [TestFixture]
     public class PrimeNumberCalculatorTests
     {
-        private PrimeNumberCalculator calculator;
+        private PrimeFactorCalculator calculator;
 
         [OneTimeSetUp]
         public void Init()
         {
-            calculator = new PrimeNumberCalculator();
+            calculator = new PrimeFactorCalculator();
         }
 
         // Output should be empty because 1 is neither prime nor composite

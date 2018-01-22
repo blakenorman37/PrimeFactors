@@ -1,0 +1,11 @@
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\bin\Debug\PrimeNumberPrinter.exe
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\bin\Debug\PrimeNumberPrinter.pdb
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\bin\Debug\PrimeNumberPrinter.exe.config
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\bnorman\Desktop\temp\PrimeFactors\PrimeNumbers\PrimeNumberPrinter\UnitTests\obj\Debug\UnitTests.pdb

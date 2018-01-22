@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PrimeNumberPrinter.Program
 {
-    public class PrimeNumberRunner
+    public class PrimeFactorRunner
     {
         /// <summary>
         /// Main runner for the program
@@ -17,13 +17,13 @@ namespace PrimeNumberPrinter.Program
         public static void Main(string[] args)
         {
             var printer = new OutputPrinter();
-            var calculator = new PrimeNumberCalculator();
+            var calculator = new PrimeFactorCalculator();
 
             var inputList = GetValidFileContentsFromUser(printer);
 
             printer.PrintLines("Prime factors for each number are:");
             foreach (var input in inputList)
-                printer.PrintLines(string.Join(",", calculator.GetPrimeFactors(input)));
+                printer.PrintLines($"{input}: " + string.Join(",", calculator.GetPrimeFactors(input)));
 
             ExitProgram(printer);
         }

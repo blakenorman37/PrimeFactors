@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrimeNumberPrinter.Program
 {
-    public class PrimeNumberCalculator
+    public class PrimeFactorCalculator
     {
         /// <summary>
         /// Calculate the prime factors for a number

@@ -46,8 +46,8 @@
     <Compile Include="Program\ReadFile.cs" />
     <Compile Include="Program\InputReader.cs" />
     <Compile Include="Program\OutputPrinter.cs" />
-    <Compile Include="Program\PrimeNumberCalculator.cs" />
-    <Compile Include="Program\PrimeNumberRunner.cs" />
+    <Compile Include="Program\PrimeFactorCalculator.cs" />
+    <Compile Include="Program\PrimeFactorRunner.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
